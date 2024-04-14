@@ -1,0 +1,10 @@
+ ________________Indian Railway____________
+__________________Ticket____________________
+____________________________________________
+Customer ID:898908
+Customer Name:yashuu
+Customer Gender:male
+	Description
+
+Destination		Delhi
+Reservation Charges :		1800
