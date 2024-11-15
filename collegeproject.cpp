@@ -575,6 +575,6 @@ void mainMenu()
 
 int main()
 {
-    Management Mobj;
+    Management Mob;
     return 0;
 }
